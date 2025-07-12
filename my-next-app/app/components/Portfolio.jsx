@@ -11,18 +11,17 @@ export default function Portfolio() {
           <PortfolioPhoto
             link={"https://comforty-rho.vercel.app/"}
             name="portfolio"
-          >
-            Online fashion store - Homepage
-          </PortfolioPhoto>
+            title={"Online fashion store - Homepage"}
+          ></PortfolioPhoto>
           <PortfolioPhoto
             link={"https://hotel-ibrohim.vercel.app/"}
             name="reebok"
-          >
-            Reebok Store - Concept
-          </PortfolioPhoto>
-          <PortfolioPhoto name="braun">
-            Braun Landing Page - Concept
-          </PortfolioPhoto>
+            title={"Reebok Store - Concept"}
+          ></PortfolioPhoto>
+          <PortfolioPhoto
+            name="braun"
+            title={"Braun Landing Page - Concept"}
+          ></PortfolioPhoto>
         </div>
       </div>
     </>
