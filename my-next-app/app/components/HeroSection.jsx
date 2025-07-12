@@ -23,7 +23,7 @@ export default function HeroSection() {
           <ChangeLangButton></ChangeLangButton>
          </div>
           <div className="flex flex-col gap-5 pl-5 md:hidden">
-          <p className="text-7xl">
+          <p className="text-2xl">
             Ibrohim
             <br />
             Rajabmurodov
