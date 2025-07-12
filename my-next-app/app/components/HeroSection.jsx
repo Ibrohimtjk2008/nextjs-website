@@ -11,27 +11,27 @@ export default function HeroSection() {
         <div className="flex justify-between py-7">
           <div className="hidden md:flex justify-between py-7 w-full">
           <p className="text-7xl">
-            Denis
+            Ibrohim
             <br />
-            Novik
+            Rajabmurodov
           </p>
           <p className="text-xl flex items-end">
             Frontend developer
             <br />
-            24 years old, Dushanbe
+            16 years old, Dushanbe
           </p>
           <ChangeLangButton></ChangeLangButton>
          </div>
           <div className="flex flex-col gap-5 pl-5 md:hidden">
           <p className="text-7xl">
-            Denis
+            Ibrohim
             <br />
-            Novik
+            Rajabmurodov
           </p>
           <p className="text-xl flex items-end">
             Frontend developer
             <br />
-            24 years old, Dushanbe
+            16 years old, Dushanbe
             </p>
             <Image
             className=" justify-center flex items-center md:hidden"

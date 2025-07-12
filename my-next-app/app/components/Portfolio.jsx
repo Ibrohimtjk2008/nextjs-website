@@ -8,10 +8,18 @@ export default function Portfolio() {
           <div>
             <p className="text-5xl font-extrabold">Portfolio</p>
           </div>
-          <PortfolioPhoto name="portfolio">
+          <PortfolioPhoto
+            link={"https://comforty-rho.vercel.app/"}
+            name="portfolio"
+          >
             Online fashion store - Homepage
           </PortfolioPhoto>
-          <PortfolioPhoto name="reebok">Reebok Store - Concept</PortfolioPhoto>
+          <PortfolioPhoto
+            link={"https://hotel-ibrohim.vercel.app/"}
+            name="reebok"
+          >
+            Reebok Store - Concept
+          </PortfolioPhoto>
           <PortfolioPhoto name="braun">
             Braun Landing Page - Concept
           </PortfolioPhoto>
